@@ -1,0 +1,12 @@
+send:
+  appid:
+  wea-appid:
+  wea-appsecret:
+  city:
+  secret:
+  touser:
+server:
+  port: 1314
+spring:
+  profiles:
+    active: dev
